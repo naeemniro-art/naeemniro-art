@@ -1,54 +1,53 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Naeem! <br/><a href="https://github.com/YOUR-USERNAME">Biomedical & Robotics Engineer</a>, <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">Fulbright Scholar</a>, <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">Creator of MedTech Explained</a></h1>
 
-<h2>👨‍💻 Mechatronics and Biomedical Engineering:</h2>
+<p>MS Biomedical Engineering candidate at the University of New Haven (Tagliatela College of Engineering) · Fulbright Scholar · Certified SolidWorks Expert (CSWE) · Mechatronics Engineer by background, prosthetics and robotic hands by obsession.</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>🦾 Prosthetics & Robotics R&D:</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
+- <b>GrapGrow</b> — Modular, 3D-printed pediatric prosthetic arm designed to grow with the user
+  - [Repo link](https://github.com/YOUR-USERNAME/GrapGrow)
+- <b>KneeNova</b> — Biomimetic prosthetic knee built around a four-bar linkage mechanism
+  - [Repo link](https://github.com/YOUR-USERNAME/KneeNova)
+- <b>Spinilibrium</b> — Rotary inverted pendulum control system for studying balance and stabilization
+  - [Repo link](https://github.com/YOUR-USERNAME/Spinilibrium)
+- <b>DexHand Contributions</b> — Work with the open-source DexHand robotic hand project, including printable STL/STEP asset review and finger design documentation
+  - [Repo link](https://github.com/YOUR-USERNAME/DexHand-notes)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>🛠️ Skills & Tools</h2>
 
-<h2> 🤳 Connect with me:</h2>
+- <b>CAD & Mechanical Design</b> — SolidWorks (CSWE certified), Blender (multi-body STL prep, portfolio rendering)
+- <b>Programming</b> — Python (pandas, scikit-learn, PyTorch), ROS2, PCB design
+- <b>Domains</b> — Biomechanics, control systems, medical device regulatory pathways (FDA QMSR, EU MDR), robotic hands, legged prosthetics
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>📝 MedTech Explained (LinkedIn)</h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+I write about biomedical and robotics innovation for engineers, founders, investors, and students — breaking down what's actually new versus what's hype.
+
+- Tendon-driven hand design in the 1X NEO humanoid
+- Mimic Robotics' industrial robotic hand
+- Open-source exoskeleton platforms (OpenExo, ALICE, Project MARCH, EduExo)
+- Humanoid robotics landscape (Figure 03, Tesla Optimus, Unitree, Berkeley Humanoid Lite)
+
+[Follow along on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+
+<h2>🎓 Currently</h2>
+
+- 🔭 Researching robotic hands and legged prosthetics ahead of PhD applications (targeting programs including Utah, Vanderbilt, Michigan, Yale, Georgia Tech, Northwestern, CMU, Johns Hopkins, and Rice)
+- 🌱 Deepening my ROS2 and PyTorch skills for control and perception in robotic hands
+- 🤔 Looking for collaborators on open-source prosthetic hand and exoskeleton projects
+- 💬 Ask me about prosthetics, robotic hands, medical device regulatory pathways, or the Fulbright program
+- ⚡ Fun fact: I'm fluent in Arabic and I'll usually trade you a home-cooked meal for good conversation
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="Naeem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Naeem | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Naeem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/YOUR-LINKEDIN
+[github]: https://github.com/YOUR-USERNAME
+[instagram]: https://www.instagram.com/YOUR-INSTAGRAM/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**YOUR-USERNAME/YOUR-USERNAME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
