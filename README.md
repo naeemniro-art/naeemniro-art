@@ -15,9 +15,40 @@
 
 <h2>🛠️ Skills & Tools</h2>
 
-- <b>CAD & Mechanical Design</b> — SolidWorks (CSWE certified), Blender (multi-body STL prep, portfolio rendering)
-- <b>Programming</b> — Python (pandas, scikit-learn, PyTorch), ROS2, PCB design
-- <b>Domains</b> — Biomechanics, control systems, medical device regulatory pathways (FDA QMSR, EU MDR), robotic hands, legged prosthetics
+<h3>Programming Languages</h3>
+
+<p>
+  <img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <b>Python</b> — pandas, scikit-learn, PyTorch, data analysis, machine learning, robotics workflows
+</p>
+
+<p>
+  <img align="center" alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <b>MATLAB</b> — control systems, signal processing, simulation, biomechanics analysis
+</p>
+
+<p>
+  <img align="center" alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <b>R</b> — statistics, data visualization, research data analysis
+</p>
+
+<h3>CAD & Mechanical Design</h3>
+
+- <b>SolidWorks</b> — CSWE certified, mechanical design, prosthetics, assemblies
+- <b>Blender</b> — multi-body STL preparation, portfolio rendering, visualization
+
+<h3>Robotics & Engineering Tools</h3>
+
+- <b>ROS2</b> — robotic systems, control, perception workflows
+- <b>PCB Design</b> — mechatronics and embedded hardware development
+
+<h3>Domains</h3>
+
+- Biomechanics
+- Control systems
+- Medical device regulatory pathways — FDA QMSR, EU MDR
+- Robotic hands
+- Legged prosthetics
 
 <h2>📝 MedTech Explained (LinkedIn)</h2>
 
