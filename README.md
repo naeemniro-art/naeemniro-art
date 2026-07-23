@@ -52,7 +52,7 @@
 <h3>CAD, Robotics & Engineering Software</h3>
 
 <p>
-  <img align="center" alt="SolidWorks" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" />
+  <img align="center" alt="SolidWorks" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solid)" />
   <b>SolidWorks</b> — CSWE certified, mechanical design, prosthetics, assemblies
 </p>
 
