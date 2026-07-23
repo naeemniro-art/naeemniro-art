@@ -32,15 +32,44 @@
   <b>R</b> — statistics, data visualization, research data analysis
 </p>
 
-<h3>CAD & Mechanical Design</h3>
+<h3>Libraries & Frameworks</h3>
 
-- <b>SolidWorks</b> — CSWE certified, mechanical design, prosthetics, assemblies
-- <b>Blender</b> — multi-body STL preparation, portfolio rendering, visualization
+<p>
+  <img align="center" alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <b>PyTorch</b> — deep learning, perception, and robotics research
+</p>
 
-<h3>Robotics & Engineering Tools</h3>
+<p>
+  <img align="center" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <b>pandas</b> — data cleaning, analysis, and research workflows
+</p>
 
-- <b>ROS2</b> — robotic systems, control, perception workflows
-- <b>PCB Design</b> — mechatronics and embedded hardware development
+<p>
+  <img align="center" alt="scikit-learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <b>scikit-learn</b> — machine learning models and data science experiments
+</p>
+
+<h3>CAD, Robotics & Engineering Software</h3>
+
+<p>
+  <img align="center" alt="SolidWorks" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" />
+  <b>SolidWorks</b> — CSWE certified, mechanical design, prosthetics, assemblies
+</p>
+
+<p>
+  <img align="center" alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <b>Blender</b> — multi-body STL preparation, portfolio rendering, visualization
+</p>
+
+<p>
+  <img align="center" alt="ROS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" />
+  <b>ROS2</b> — robotic systems, control, perception workflows
+</p>
+
+<p>
+  <img align="center" alt="Altium Designer" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/altiumdesigner.svg" />
+  <b>PCB Design</b> — mechatronics and embedded hardware development
+</p>
 
 <h3>Domains</h3>
 
@@ -49,7 +78,6 @@
 - Medical device regulatory pathways — FDA QMSR, EU MDR
 - Robotic hands
 - Legged prosthetics
-
 <h2>📝 MedTech Explained (LinkedIn)</h2>
 
 I write about biomedical and robotics innovation for engineers, founders, investors, and students — breaking down what's actually new versus what's hype.
