@@ -18,54 +18,56 @@
 <h3>Programming Languages</h3>
 
 <p>
-  <img align="center" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <b>Python</b> — pandas, scikit-learn, PyTorch, data analysis, machine learning, robotics workflows
 </p>
 
 <p>
-  <img align="center" alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <img align="center" alt="MATLAB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <b>MATLAB</b> — control systems, signal processing, simulation, biomechanics analysis
 </p>
 
 <p>
-  <img align="center" alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="R" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <b>R</b> — statistics, data visualization, research data analysis
 </p>
 
 <h3>Libraries & Frameworks</h3>
 
 <p>
-  <img align="center" alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img align="center" alt="PyTorch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <b>PyTorch</b> — deep learning, perception, and robotics research
 </p>
 
 <p>
-  <img align="center" alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="pandas" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <b>pandas</b> — data cleaning, analysis, and research workflows
 </p>
 
 <p>
-  <img align="center" alt="scikit-learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img align="center" alt="scikit-learn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <b>scikit-learn</b> — machine learning models and data science experiments
 </p>
 
 <h3>CAD, Robotics & Engineering Software</h3>
 
 <p>
-  <img align="center" alt="SOLIDWORKS" width="40" src="https://
+  <img align="center" alt="SOLIDWORKS" width="40" src="https://cdn.simpleicons.org/dassaultsystemes/005386" />
+  <b>SOLIDWORKS</b> — CSWE Certified, mechanical design, prosthetics, assemblies
+</p>
 
 <p>
-  <img align="center" alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img align="center" alt="Blender" width="40" src="https://cdn.simpleicons.org/blender/F5792A" />
   <b>Blender</b> — multi-body STL preparation, portfolio rendering, visualization
 </p>
 
 <p>
-  <img align="center" alt="ROS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" />
+  <img align="center" alt="ROS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" />
   <b>ROS2</b> — robotic systems, control, perception workflows
 </p>
 
 <p>
-  <img align="center" alt="Altium Designer" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/altiumdesigner.svg" />
+  <img align="center" alt="Altium Designer" width="40" src="https://cdn.simpleicons.org/altiumdesigner/A5915F" />
   <b>PCB Design</b> — mechatronics and embedded hardware development
 </p>
 
